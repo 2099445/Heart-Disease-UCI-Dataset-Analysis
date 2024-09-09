@@ -3,7 +3,7 @@
 This project involves analyzing the Heart Disease UCI dataset to explore patterns and insights related to heart disease.
 
 ### Dataset
-- **Name: Heart Disease UCI Dataset
+- **Name**: Heart Disease UCI Dataset
 - **Source**: [Kaggle Heart Disease UCI Dataset](https://www.kaggle.com/datasets/ronitf/heart-disease-uci)
 - **Description**: This dataset contains information about patients' health indicators and is used to predict the presence of heart disease.
 
